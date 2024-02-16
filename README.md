@@ -1,3 +1,6 @@
-This repository will have simple programs in python.
+This repository will have simple programs in Python.
+
+
 List of programs:
-Number Guessing Game in python
+
+Number Guessing Game
