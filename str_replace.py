@@ -1,0 +1,5 @@
+orig_str=input("Enter the original string")
+sub_string=input("Enter the string to be replaced in the original string")
+new_string=input("Enter the string to replace the substring")
+mod_string=orig_str.replace(sub_string, new_string,2)
+print(mod_string)

@@ -1,5 +1,5 @@
 """
-Project: Building Number Guessing Game
+Program: Building Number Guessing Game
 Input: Range for Number guessing (Ex: 1 to 100)
 Number of guesses: log_2(Upper bound-lower bound+1)
 """
